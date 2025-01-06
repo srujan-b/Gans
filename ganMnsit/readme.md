@@ -22,6 +22,14 @@ The two networks are trained simultaneously in a zero-sum game.
 - **Discriminator Architecture**: Uses convolutional layers to classify images.
 - **Training Metrics**: Tracks Generator and Discriminator losses over epochs.
 
+## **Acknowledgments** 
+This project was inspired by:
+
+- Sreenivas Bhattiprolu-"Python for Microscopists"-https://github.com/bnsreenu/python_for_microscopists/blob/master/125_126_GAN_predict_mnist.py
+- Generative Adversarial Networks(https://arxiv.org/abs/1406.2661)
+- TensorFlow and Keras documentation.
+
+
 ## **Results**
 
 ### **Image Generation Progression**
